@@ -1,4 +1,4 @@
-/*ავაგოთ საიტის ფონი*/
+
 *{
     box-sizing: border-box;
     -webkit-box-sizing: border-box;
@@ -9,7 +9,7 @@ body{
     -webkit-font-smoothing: antialiased;
     background: rgb(255, 255, 255);
 }
-/*ავაგოთ ტექსტის სტილი*/
+
 h2{
     text-align: center;
     font-size: 18px;
@@ -19,7 +19,7 @@ h2{
     padding: 30px 0;
 }
 
-/* ცხრილი */
+
 
 .table-wrapper{
     margin: 10px 70px 70px;
@@ -65,7 +65,7 @@ h2{
 
 
 
- (max-width: 770px) {
+  {
     .fl-table {
         display: block;
         width: 100%;
